@@ -1,2 +1,14 @@
 # Newyork_Bike-Usage-analysis
 The project examines the bike usage of New York City.
+
+# Introduction
+
+In this project the 2014 Bike usage data of New York City obtained from GCP was analyzed. The analysis aims to identify the busy routs and stations with high Bike demand. Furthermore, the analyses identifies pick hours where the bike demand hits high.
+
+# Tools
+Jupyter Notebook, Pandas, Seaborn, Matplotlib 
+
+# Structure
+
+Data:/ The directory contains the data on the stations information. The row ride data is too big to upload to GitHub. However, the data can be accessed freely from GCP.
+src:/ This directly contained an active code. With the availability of the data, the code can be used to reproduce the result.

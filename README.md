@@ -16,7 +16,8 @@ src:/ This directly contained an active code. With the availability of the data,
 # Results
 ### Few stations are extremely busy. As shown from the graph, more than 40000 trips were initiated from those few stations in that year. 
 
-<img width="444" height="342" alt="image" src="https://github.com/user-attachments/assets/1b0ba24c-bbcb-4883-8514-5a95cfefb532" />
+<img width="454" height="492" alt="image" src="https://github.com/user-attachments/assets/a2640338-7c5f-47fc-bc7e-9672507427d4" />
+
 
 ### The bike usage is extremely high between the months of May and October. This likely be due to the sunny weather. 
 

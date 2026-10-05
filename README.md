@@ -12,3 +12,11 @@ Jupyter Notebook, Pandas, Seaborn, Matplotlib
 
 Data:/ The directory contains the data on the stations information. The row ride data is too big to upload to GitHub. However, the data can be accessed freely from GCP.
 src:/ This directly contained an active code. With the availability of the data, the code can be used to reproduce the result.
+
+# Results
+few stations are extremely busy
+![<img width="444" height="342" alt="image"] (src="https://github.com/user-attachments/assets/1b0ba24c-bbcb-4883-8514-5a95cfefb532" />
+)
+
+
+

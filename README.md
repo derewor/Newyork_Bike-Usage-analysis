@@ -22,6 +22,8 @@ src:/ This directly contained an active code. With the availability of the data,
 
 <img width="435" height="388" alt="image" src="https://github.com/user-attachments/assets/0648614b-058e-4277-b4b6-644b95f9f4f5" />
 
+### The bike demand is higher in the morning between 7 and 8 AM and in the afternoon between 5 and 7 PM. This likely be due to the working start and end hours.
+<img width="445" height="271" alt="image" src="https://github.com/user-attachments/assets/dc3c1dfa-401a-4b4b-9a85-dd717c982280" />
 
 
 

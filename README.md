@@ -15,8 +15,9 @@ src:/ This directly contained an active code. With the availability of the data,
 
 # Results
 few stations are extremely busy
-![<img width="444" height="342" alt="image"] (src="https://github.com/user-attachments/assets/1b0ba24c-bbcb-4883-8514-5a95cfefb532" />
-)
+![<img width="444" height="342" alt="image" src="https://github.com/user-attachments/assets/1b0ba24c-bbcb-4883-8514-5a95cfefb532" />
+]
+
 
 
 
